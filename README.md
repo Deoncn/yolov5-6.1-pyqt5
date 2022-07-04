@@ -1,7 +1,5 @@
 <div align="center">
-<p>
-   <img width="850" src="https://w.wallhaven.cc/full/ox/wallhaven-oxr1e5.png"></a>
-</p>
+   <img width="850" src="https://w.wallhaven.cc/full/ox/wallhaven-oxr1e5.png">
 <br>
 <h2>
 该系统使用YOLOv5s的最新版本6.1版做为基础核心，并使用Pyqt5进行图形界面的开发。
